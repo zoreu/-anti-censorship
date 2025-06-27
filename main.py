@@ -128,7 +128,7 @@ async def handle_client(reader, writer):
 
 async def main(port):
     logger.info("Aplicação rodando...")
-    server = await asyncio.start_server(handle_client, '0.0.0.0', 11870)
+    server = await asyncio.start_server(handle_client, '0.0.0.0', port)
 
     async with server:
         await server.serve_forever()
