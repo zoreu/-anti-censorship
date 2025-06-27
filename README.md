@@ -32,4 +32,6 @@ no celular coloque o host e a porta em proxy nas configurações de wifi do seu 
 
 no pc, tenha o chrome e baixe a extensão "simple proxy" em import coloque o host com a porta, se quiser desativar clique em disable e pra ativar clica no proxy na extenção
 
+OBSERVAÇÃO: CASO O PROXY NÃO ACESSE O SITE EM QUESTÃO, DELETE O SERVIDOR E CRIE OUTRO PRA ALTERAR A REGIÃO E TENTE NOVAMENTE
+
 
